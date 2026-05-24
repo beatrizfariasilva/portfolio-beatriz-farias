@@ -18,7 +18,7 @@ src/
 ## API utilizada
 Os projetos são consumidos diretamente da API pública do GitHub:
 ```bash
-https://api.github.com/users/seuusuario/repos
+https://api.github.com/users/beatrizfariasilva/repos
 ```
 
 ## Como executar o projeto
